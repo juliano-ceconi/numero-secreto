@@ -1,0 +1,13 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Project files
+.env
+node_modules/
